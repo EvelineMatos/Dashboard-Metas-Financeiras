@@ -2,7 +2,8 @@
 
 Um projeto simples e interativo para gerenciar metas financeiras, como economizar para um carro, casa, ou qualquer outro objetivo. Desenvolvido com HTML, CSS, JavaScript e Bootstrap.
 
-![Dashboard de Metas Financeira](assets/Metas%20Financeiras.png) 
+![Dashboard de Metas Financeira](assets/images/Metas-Financeiras.png) 
+
 
 ## Funcionalidades
 
@@ -18,6 +19,15 @@ Um projeto simples e interativo para gerenciar metas financeiras, como economiza
 - **JavaScript:** Lógica para adicionar, editar e atualizar metas.
 - **Bootstrap:** Design responsivo e componentes estilizados.
 
+## Estrutura do Projeto
+```sh
+metas-financeiras/
+├── index.html          # Página principal
+├── styles.css          # Estilos personalizados
+├── script.js           # Lógica do projeto
+├── README.md           # Documentação do projeto
+```
+
 ## Como Usar
 
 ### 1. Clone o Repositório
@@ -25,3 +35,4 @@ Um projeto simples e interativo para gerenciar metas financeiras, como economiza
 ```bash
 git clone https://github.com/EvelineMatos/Dashboard-Metas-Financeiras
 cd metas-financeiras
+
