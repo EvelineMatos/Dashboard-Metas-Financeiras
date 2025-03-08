@@ -1,0 +1,16 @@
+/* Estilos personalizados */
+.progresso {
+    background-color: #e9ecef;
+    border-radius: 4px;
+    height: 20px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+.progresso .barra {
+    background-color: #007bff;
+    height: 100%;
+    text-align: center;
+    color: #fff;
+    line-height: 20px;
+}
